@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mathushalini 👋
 
-<!--
-**mathushalini-balan/mathushalini-balan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 IT Undergraduate | Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+I'm an Information Technology undergraduate passionate about DevOps, cloud computing, Linux, and automation. I'm developing hands-on experience in modern infrastructure and deployment practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming:** Java, SQL
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** MongoDB
+- **Development Tools:** Git, GitHub, VS Code, Postman
+
+## 🌱 Currently Learning
+- Linux and Bash Scripting
+- Docker and Containerization
+- CI/CD with GitHub Actions
+- AWS and Microsoft Azure
+- Terraform and Kubernetes
+
+## 🚀 Projects
+
+### RideLink — Fare & Payment Microservice
+Developed a Spring Boot microservice with MongoDB for fare estimation, payment processing, and receipt generation. Implemented REST APIs and tested functionality using Postman and JUnit.
+
+### DevOps Projects
+Coming soon: Linux automation, Docker, CI/CD, and cloud deployment projects.
+
+## 🎯 Career Goal
+Seeking a DevOps internship to gain hands-on experience in cloud infrastructure, automation, continuous integration, and deployment.
+
+## 📫 Connect With Me
+- GitHub: https://github.com/mathushalini-balan
